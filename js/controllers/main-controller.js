@@ -1,4 +1,4 @@
-app.controller('MainController', ['$scope', function($scope) {
+app.controller('main-controller', ['$scope', function($scope) {
   $scope.programs = [
     {
       series: "Sherlock", 
