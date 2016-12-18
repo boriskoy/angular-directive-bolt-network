@@ -1,9 +1,9 @@
-app.directive('programListing', function() {
+app.directive('program-listing', function() {
   return {
     restrict: 'E',
     scope: {
       listing: '=',
     },
-    templateUrl: 'js/directives/programListing.html',
+    templateUrl: 'js/directives/program-listing.html',
 };
 });
