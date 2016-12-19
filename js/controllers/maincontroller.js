@@ -11,7 +11,7 @@ app.controller('MainController', ['$scope', function($scope) {
   },
   {
   series: "Arrested Development",
-  series_img: "https://s3.amazonaws.com/codecademy-content/projects/4/bolt-network-2/img/arrested_development.jpg", 
+  series_img: "img/arrested_development.jpg", 
 	genre: "Crime drama", 
 	season: 3, 
   episode: "The Empty Hearse", 
