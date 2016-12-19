@@ -4,6 +4,6 @@ app.directive('programListing', function() {
     scope: {
       listing: '=',
     },
-    templateUrl: 'js/directives/programListing.html',
+    templateUrl: 'js/directives/programlisting.html',
 };
 });
