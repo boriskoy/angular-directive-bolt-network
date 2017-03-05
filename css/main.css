@@ -38,6 +38,10 @@ li:hover {
   text-decoration: none;
 }
 
+.series_img {
+  opacity: 0.4;
+}
+
 
 /* Header */
 .header {
