@@ -60,6 +60,10 @@ li:hover {
   text-transform: uppercase;
 }
 
+.list-group-item {
+    background-color: black;
+}
+
 /* Scorecard row */
 .scorecard,
 .more {
